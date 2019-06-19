@@ -32,7 +32,9 @@ Features
 Postgres
 --------
 
-You  can connect to any postgres server (localhost or remote). This addonhas been testet with Postgres V10.
+You  can connect to any postgres server (localhost or remote). This addon has been tested with Postgres V 10.
+
+An other easy way to get postgres up and running is to use docker:
 
  - Install docker
 
