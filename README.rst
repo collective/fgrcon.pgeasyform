@@ -13,8 +13,7 @@ Features
 
 - New form action: "Postgres Data" and corresponding PostgresDataHandler. 
   Action configuration fields: Database connection string, database table name, decimal separator
-  Example for database connection string::
-  dbname='postgres' user=='postgres',host='localhost' password = 'secret'
+  Example for database connection string: ``dbname='postgres' user=='postgres',host='localhost' password = 'secret'``
   
   when decimal separator is selected, commas are treated as decimal separators as well (helpful with  devices)
   
