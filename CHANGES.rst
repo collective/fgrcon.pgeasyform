@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-1.0a1 (unreleased)
-------------------
+1.1 (2019-06-19)
+----------------
 
 - Initial release.
   [fgrcon]
